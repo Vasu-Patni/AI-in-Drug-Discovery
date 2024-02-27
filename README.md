@@ -1,4 +1,5 @@
-# AI-in-Drug-Discovery
+# AI in Drug Discovery
+In this Jupyter notebook, we will dive into the AI in Drug Discovery::, by applying Linear Regression to predict the solubility of molecules (i.e. solubility of drugs is an important physicochemical property in Drug discovery, design and development. Future Omics Bioinformatics made easy YouTube channel] (https://www.youtube.com/@Bioinformatics_Made_Easy) 
 AI in drug discovery, particularly utilizing machine learning (ML) models with drug solubility data, is a promising area that offers significant potential for accelerating the drug development process.
 Drug solubility, which refers to the ability of a drug to dissolve in a solvent, is a critical property that impacts its absorption, distribution, metabolism, and excretion (ADME) within the body. Poor solubility can lead to issues with bioavailability, limiting the effectiveness of a drug.
 ML models can be trained on large datasets of drug compounds with known solubility values to learn patterns and relationships between molecular structures and solubility. These models can then be used to predict the solubility of new or existing compounds, thereby aiding in the selection and optimization of drug candidates with improved solubility profiles.
